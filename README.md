@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Menna-Saad
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML5, css, js, mySql
+- 🌱 I’m currently learning HTML5, css, js, React
 - 💞️I am looking to collaborate on projects that can help me add knowledge and also I would like to help others as well.
